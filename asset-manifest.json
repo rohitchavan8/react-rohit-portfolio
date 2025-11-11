@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.f744c584.css",
-    "main.js": "/static/js/main.4fdefa05.js",
-    "static/media/89.png": "/static/media/89.579dd8bb62325c81e1d9.png",
-    "static/media/ROHIT_CHAVAN_10Years_exp_cv.pdf": "/static/media/ROHIT_CHAVAN_10Years_exp_cv.d0812aaf64c1064fab71.pdf",
-    "static/media/tea-trails-india-s3.jpg": "/static/media/tea-trails-india-s3.9d1ef06a789f1e005cd1.jpg",
-    "static/media/10.jpg": "/static/media/10.a364b2896263bbb29985.jpg",
-    "static/media/BMW_INDIA.jpg": "/static/media/BMW_INDIA.f8b5892ab0a39fb54799.jpg",
-    "static/media/reliance-thumbnail1.jpg": "/static/media/reliance-thumbnail1.13ca45b316449fe8764f.jpg",
-    "static/media/Lia-home-fragrances-b3.jpg": "/static/media/Lia-home-fragrances-b3.961537f6c3024b488606.jpg",
-    "static/media/MINI_ID.jpg": "/static/media/MINI_ID.b03be3376e14d918c6e2.jpg",
-    "static/media/bmw-service.jpg": "/static/media/bmw-service.82de262b2ea7ba972873.jpg",
-    "static/media/testimonial-avatar-08.png": "/static/media/testimonial-avatar-08.0f324b9ff3fc513daf67.png",
-    "static/media/testimonial-avatar-07.png": "/static/media/testimonial-avatar-07.12673f35c671ed358310.png",
-    "static/media/testimonial-avatar-09.png": "/static/media/testimonial-avatar-09.2d43baaddd81abeaad28.png",
-    "static/media/testimonial-avatar-10.png": "/static/media/testimonial-avatar-10.d78f9271fa501a1192a4.png",
-    "static/media/ROHIT_small.jpg": "/static/media/ROHIT_small.4c6cbd37f280a25bb280.jpg",
-    "index.html": "/index.html",
-    "main.f744c584.css.map": "/static/css/main.f744c584.css.map",
-    "main.4fdefa05.js.map": "/static/js/main.4fdefa05.js.map"
+    "main.css": "/react-rohit-portfolio/static/css/main.f744c584.css",
+    "main.js": "/react-rohit-portfolio/static/js/main.f7233519.js",
+    "static/media/89.png": "/react-rohit-portfolio/static/media/89.579dd8bb62325c81e1d9.png",
+    "static/media/ROHIT_CHAVAN_10Years_exp_cv.pdf": "/react-rohit-portfolio/static/media/ROHIT_CHAVAN_10Years_exp_cv.d0812aaf64c1064fab71.pdf",
+    "static/media/tea-trails-india-s3.jpg": "/react-rohit-portfolio/static/media/tea-trails-india-s3.9d1ef06a789f1e005cd1.jpg",
+    "static/media/10.jpg": "/react-rohit-portfolio/static/media/10.a364b2896263bbb29985.jpg",
+    "static/media/BMW_INDIA.jpg": "/react-rohit-portfolio/static/media/BMW_INDIA.f8b5892ab0a39fb54799.jpg",
+    "static/media/reliance-thumbnail1.jpg": "/react-rohit-portfolio/static/media/reliance-thumbnail1.13ca45b316449fe8764f.jpg",
+    "static/media/Lia-home-fragrances-b3.jpg": "/react-rohit-portfolio/static/media/Lia-home-fragrances-b3.961537f6c3024b488606.jpg",
+    "static/media/MINI_ID.jpg": "/react-rohit-portfolio/static/media/MINI_ID.b03be3376e14d918c6e2.jpg",
+    "static/media/bmw-service.jpg": "/react-rohit-portfolio/static/media/bmw-service.82de262b2ea7ba972873.jpg",
+    "static/media/testimonial-avatar-08.png": "/react-rohit-portfolio/static/media/testimonial-avatar-08.0f324b9ff3fc513daf67.png",
+    "static/media/testimonial-avatar-07.png": "/react-rohit-portfolio/static/media/testimonial-avatar-07.12673f35c671ed358310.png",
+    "static/media/testimonial-avatar-09.png": "/react-rohit-portfolio/static/media/testimonial-avatar-09.2d43baaddd81abeaad28.png",
+    "static/media/testimonial-avatar-10.png": "/react-rohit-portfolio/static/media/testimonial-avatar-10.d78f9271fa501a1192a4.png",
+    "static/media/ROHIT_small.jpg": "/react-rohit-portfolio/static/media/ROHIT_small.4c6cbd37f280a25bb280.jpg",
+    "index.html": "/react-rohit-portfolio/index.html",
+    "main.f744c584.css.map": "/react-rohit-portfolio/static/css/main.f744c584.css.map",
+    "main.f7233519.js.map": "/react-rohit-portfolio/static/js/main.f7233519.js.map"
   },
   "entrypoints": [
     "static/css/main.f744c584.css",
-    "static/js/main.4fdefa05.js"
+    "static/js/main.f7233519.js"
   ]
 }
