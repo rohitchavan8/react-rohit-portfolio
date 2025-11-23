@@ -18,7 +18,8 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_sbwvfjr', 'template_usa43jr', form.current, '-MHwKMsgmd-DUBiGv')
+    const newLocal = 'service_sbwvfjr';
+    emailjs.sendForm(newLocal, 'template_usa43jr', form.current, '-MHwKMsgmd-DUBiGv')
       .then((result) => {
         console.log(result.text);
       }, (error) => {
