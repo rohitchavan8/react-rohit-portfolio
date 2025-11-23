@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-rohit-portfolio/static/css/main.f744c584.css",
-    "main.js": "/react-rohit-portfolio/static/js/main.f7233519.js",
+    "main.js": "/react-rohit-portfolio/static/js/main.ee8b4730.js",
     "static/media/89.png": "/react-rohit-portfolio/static/media/89.579dd8bb62325c81e1d9.png",
     "static/media/ROHIT_CHAVAN_10Years_exp_cv.pdf": "/react-rohit-portfolio/static/media/ROHIT_CHAVAN_10Years_exp_cv.d0812aaf64c1064fab71.pdf",
     "static/media/tea-trails-india-s3.jpg": "/react-rohit-portfolio/static/media/tea-trails-india-s3.9d1ef06a789f1e005cd1.jpg",
@@ -18,10 +18,10 @@
     "static/media/ROHIT_small.jpg": "/react-rohit-portfolio/static/media/ROHIT_small.4c6cbd37f280a25bb280.jpg",
     "index.html": "/react-rohit-portfolio/index.html",
     "main.f744c584.css.map": "/react-rohit-portfolio/static/css/main.f744c584.css.map",
-    "main.f7233519.js.map": "/react-rohit-portfolio/static/js/main.f7233519.js.map"
+    "main.ee8b4730.js.map": "/react-rohit-portfolio/static/js/main.ee8b4730.js.map"
   },
   "entrypoints": [
     "static/css/main.f744c584.css",
-    "static/js/main.f7233519.js"
+    "static/js/main.ee8b4730.js"
   ]
 }
